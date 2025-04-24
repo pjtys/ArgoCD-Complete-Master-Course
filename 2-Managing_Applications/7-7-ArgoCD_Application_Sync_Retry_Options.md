@@ -5,14 +5,14 @@ This guide provides sample files and commands to demonstrate the `retry` sync op
 
 ## Git setup
 **Clone files from Git Repository**:
-   - [2-Managing_Applications/0-Cloning_Git_Repo.md](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/2-Managing_Applications/0-Cloning_Git_Repo.md)
+   - [2-Managing_Applications/0-Cloning_Git_Repo.md](https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/2-Managing_Applications/0-Cloning_Git_Repo.md)
 
 ## Steps
 
 ### 1. Define a Kubernetes Application
 Create an `Application` resource in Argo CD. This YAML file defines the application, its source repository, and the sync policy, including the prune optison.
 
-- [0-Demo_Files/Sync_Retry_Apps/argo-app-sync-retry.yaml](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/0-Demo_Files/Sync_Retry_Apps/argo-app-sync-retry.yaml)
+- [0-Demo_Files/Sync_Retry_Apps/argo-app-sync-retry.yaml](https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/0-Demo_Files/Sync_Retry_Apps/argo-app-sync-retry.yaml)
 
 ### 2. Apply the Application
 Deploy this application to your Argo CD environment using `kubectl`.

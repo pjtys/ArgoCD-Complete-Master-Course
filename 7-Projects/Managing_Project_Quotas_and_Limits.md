@@ -58,7 +58,7 @@ Edit the project to include resource limits.
 
 Updated Project Definition (`project_quota.yaml`):
 
-[0-Demo_Files/Project_Intro/project_quota.yaml](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/0-Demo_Files/Project_Intro/project_quota.yaml)
+[0-Demo_Files/Project_Intro/project_quota.yaml](https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/0-Demo_Files/Project_Intro/project_quota.yaml)
 
 Apply the updated configuration:
 ```bash

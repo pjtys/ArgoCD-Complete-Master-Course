@@ -8,7 +8,7 @@ Define a sync window in your Argo CD project to specify when synchronization can
 
 This is a simple Kubernetes deployment manifest for an argocd project:
 
-[0-Demo_Files/Project_Intro/sync-window.yaml](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/0-Demo_Files/Project_Intro/sync-window.yaml)
+[0-Demo_Files/Project_Intro/sync-window.yaml](https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/0-Demo_Files/Project_Intro/sync-window.yaml)
 
 This configuration allows synchronization every day starting at 10 PM for a duration of 8 hours.
 

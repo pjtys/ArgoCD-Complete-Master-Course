@@ -14,7 +14,7 @@
 
 Create a YAML file that defines your ArgoCD application. Here's an example YAML with explanations:
 
-[0-Demo_Files/Sample_Deployment_Service_ArgoCD_Apps/application.yaml] (https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/0-Demo_Files/Sample_Deployment_Service_ArgoCD_Apps/application.yaml)
+[0-Demo_Files/Sample_Deployment_Service_ArgoCD_Apps/application.yaml] (https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/0-Demo_Files/Sample_Deployment_Service_ArgoCD_Apps/application.yaml)
 
 
 ### Applying the YAML File
@@ -26,7 +26,7 @@ kubectl apply -f 0-Demo_Files/Sample_Deployment_Service_ArgoCD_Apps/application.
 ```
 
 ## login to ArgoCD CLI
-- Login to ArgoCD CLI by following the instruction at https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/1-Installation_and_Setup/2-ArogCD_and_ArogCD_CLI_Installation.md 
+- Login to ArgoCD CLI by following the instruction at https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/1-Installation_and_Setup/2-ArogCD_and_ArogCD_CLI_Installation.md 
 
 ## Syncing an Application
 - Perform an initial sync using `argocd app sync argo-sample-deployment-service` or via the ArgoCD UI.

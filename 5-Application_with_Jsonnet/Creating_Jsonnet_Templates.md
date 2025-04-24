@@ -2,7 +2,7 @@
 
 - First, you need to have ArgoCD installed in your Kubernetes cluster.
 
-  [ArgoCD Installation and Setup](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/tree/main/1-Installation_and_Setup)
+  [ArgoCD Installation and Setup](https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/tree/main/1-Installation_and_Setup)
 
 ### 2. **Set Up Jsonnet**
 

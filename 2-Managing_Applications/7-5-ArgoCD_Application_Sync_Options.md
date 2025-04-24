@@ -10,7 +10,7 @@ This guide provides sample files and commands to demonstrate various Argo CD syn
 
 ## Git setup
 **Clone files from Git Repository**:
-   - [2-Managing_Applications/0-Cloning_Git_Repo.md](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/2-Managing_Applications/0-Cloning_Git_Repo.md)
+   - [2-Managing_Applications/0-Cloning_Git_Repo.md](https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/2-Managing_Applications/0-Cloning_Git_Repo.md)
 
 ## Steps
 
@@ -18,10 +18,10 @@ This guide provides sample files and commands to demonstrate various Argo CD syn
 Create an `Application` resource in Argo CD. This YAML file defines the application, its source repository, and the sync policy, including the prune optison.
 
 For other demo
-- [0-Demo_Files/Nginx_Deployment_ArgoCD_Apps/argo-app-prune-demo.yaml](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/0-Demo_Files/Nginx_Deployment_ArgoCD_Apps/argo-app-prune-demo.yaml)
+- [0-Demo_Files/Nginx_Deployment_ArgoCD_Apps/argo-app-prune-demo.yaml](https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/0-Demo_Files/Nginx_Deployment_ArgoCD_Apps/argo-app-prune-demo.yaml)
 
 For Schema validation demo
-- [0-Demo_Files/With_Schema_Error_Apps/argo-app-sync-demo.yaml](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/0-Demo_Files/With_Schema_Error_Apps/argo-app-sync-demo.yaml)
+- [0-Demo_Files/With_Schema_Error_Apps/argo-app-sync-demo.yaml](https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/0-Demo_Files/With_Schema_Error_Apps/argo-app-sync-demo.yaml)
 
 ### 2. Apply the Application
 Deploy this application to your Argo CD environment using `kubectl`.

@@ -8,7 +8,7 @@ Define an Argo CD `AppProject` with a finalizer in a YAML file:
 
 This is a simple Kubernetes deployment manifest for an argocd project:
 
-[0-Demo_Files/Project_Intro/project_with_finalizer.yaml](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/0-Demo_Files/Project_Intro/project_with_finalizer.yaml)
+[0-Demo_Files/Project_Intro/project_with_finalizer.yaml](https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/0-Demo_Files/Project_Intro/project_with_finalizer.yaml)
 
 
 

@@ -12,12 +12,12 @@
 
 
 **b. Clone files from Git Repository**:
-   - [2-Managing_Applications/0-Cloning_Git_Repo.md](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/2-Managing_Applications/0-Cloning_Git_Repo.md)
+   - [2-Managing_Applications/0-Cloning_Git_Repo.md](https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/2-Managing_Applications/0-Cloning_Git_Repo.md)
 
 
 **c. Deploy an Application**
 
-[0-Demo_Files/Liveness_Deployment_ArgoCD_Apps/liveness-demo-argocd-apps.yaml](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/0-Demo_Files/Liveness_Deployment_ArgoCD_Apps/liveness-demo-argocd-apps.yaml)
+[0-Demo_Files/Liveness_Deployment_ArgoCD_Apps/liveness-demo-argocd-apps.yaml](https://github.com/pjtys/ArgoCD-Complete-Master-Course.git/blob/main/0-Demo_Files/Liveness_Deployment_ArgoCD_Apps/liveness-demo-argocd-apps.yaml)
 
 - Apply with `liveness-demo-argocd-apps.yaml`.
 
